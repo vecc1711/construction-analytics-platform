@@ -28,33 +28,16 @@ All notable changes to this project will be documented here.
 - Development Standards (DOC-005)
 - Architecture Decision Log (DOC-006)
 
-### Notes
+## Version 0.3.0
 
-Completed the initial documentation framework and established the architectural direction for the project before beginning database design.
+### Added
 
-## Planned
-
-### Version 0.2.0
-
-- Database redesign
-- Data dictionary
-- Database documentation
-- Final ERD
-
-### Version 0.3.0
-
-- SQL reporting views
-- Analytics layer
-- KPI calculations
-
-### Version 0.4.0
-
-- Power BI dashboards
-
-### Version 0.5.0
-
-- Tableau dashboards
-
-### Version 1.0.0
-
-- Portfolio release
+- Executive Discovery Workshop
+- Project Manager Discovery Workshop
+- Operations Discovery Workshop
+- Finance / Job Cost Discovery Workshop
+- Estimating & Budget Development Workshop
+- Architecture Decision Log updates
+- Business Discovery Matrix updates
+- KPI governance documentation
+- Solution development standards

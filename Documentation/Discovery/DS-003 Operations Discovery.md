@@ -3,7 +3,7 @@
 **Document ID:** DS-003  
 **Project:** Construction Analytics Solution  
 **Sprint:** Sprint 2 – Business Discovery  
-**Status:** Complete  
+**Status:** Draft
 **Version:** 0.1  
 **Last Updated:** July 2026
 
