@@ -10,6 +10,20 @@ v0.3.0
 
 Sprint 3 – Solution Architecture
 
+Status: In Progress
+
+---
+
+## Completed Workshops
+
+✅ SA-001 – Business Entity Identification
+
+---
+
+## Current Workshop
+
+SA-002 – Entity Relationship Definition
+
 Status: Ready to Begin
 
 ---
@@ -42,16 +56,18 @@ Workshop SA-001 – Business Entity Identification
 
 ## Overall Progress
 
-Documentation               ██████████ 100%
+Documentation           ██████████ 100%
 
-Business Discovery          ██████████ 100%
+Business Discovery      ██████████ 100%
 
-Solution Architecture       ░░░░░░░░░░   0%
+Solution Architecture   ██░░░░░░░░  15%
 
-Database Design             ░░░░░░░░░░   0%
+Database Design         ░░░░░░░░░░   0%
 
-SQL                         ░░░░░░░░░░   0%
+Database Development    ░░░░░░░░░░   0%
 
-Power BI                    ░░░░░░░░░░   0%
+SQL Analytics Layer     ░░░░░░░░░░   0%
 
-Tableau                     ░░░░░░░░░░   0%
+Power BI                ░░░░░░░░░░   0%
+
+Tableau                 ░░░░░░░░░░   0%
