@@ -77,28 +77,13 @@ Default customer billing information may include:
 - Billing email
 - Payment terms
 
-### Property / Site
+### Site Information
 
-A property or site represents the physical location where work is performed.
+A separate reusable Property entity is not required for the initial solution.
 
-Business rules:
+Each Opportunity represents work at one site and stores the proposed site information directly. When the work is awarded, the final site information is copied to the Job and retained as the authoritative historical site record for that job.
 
-- One property may have multiple jobs over time.
-- Each job belongs to exactly one property.
-- One job cannot span multiple properties.
-- The customer and property are separate business concepts.
-
-Site information may include:
-
-- Site name
-- Address
-- Property type
-- Site contact name
-- Site contact email
-- Site contact mobile number
-- Access code
-- Workday restrictions
-- Work-hour restrictions
+A future Property entity may be introduced if centralized property management, repeat-site matching, or property-level analytics becomes necessary.
 
 ### Customer Contact
 

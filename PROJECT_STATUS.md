@@ -18,11 +18,13 @@ Status: In Progress
 
 ✅ SA-001 – Business Entity Identification
 
+✅ SA-002 – Entity Relationship Definition
+
 ---
 
 ## Current Workshop
 
-SA-002 – Entity Relationship Definition
+SA-003 – Logical Data Model and Subject Areas
 
 Status: Ready to Begin
 
@@ -44,13 +46,15 @@ Status: Ready to Begin
 
 ✅ Estimating & Budget Development
 
+✅ Business Entity Identification
+
+✅ Entity Relationship Definition
+
 ---
 
 ## Next Sprint
 
-Sprint 4 – Database
-
-Workshop SA-001 – Business Entity Identification
+Sprint 4 – Database Design
 
 ---
 
@@ -60,7 +64,7 @@ Documentation           ██████████ 100%
 
 Business Discovery      ██████████ 100%
 
-Solution Architecture   ██░░░░░░░░  15%
+Solution Architecture   ███░░░░░░░  30%
 
 Database Design         ░░░░░░░░░░   0%
 
