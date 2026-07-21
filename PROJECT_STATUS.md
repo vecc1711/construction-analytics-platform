@@ -20,11 +20,13 @@ Status: In Progress
 
 ✅ SA-002 – Entity Relationship Definition
 
+✅ SA-003 – Logical Data Model and Subject Areas
+
 ---
 
 ## Current Workshop
 
-SA-003 – Logical Data Model and Subject Areas
+SA-004 – Logical Entity and Attribute Definition
 
 Status: Ready to Begin
 
@@ -50,6 +52,8 @@ Status: Ready to Begin
 
 ✅ Entity Relationship Definition
 
+✅ Logical Data Model and Subject Areas
+
 ---
 
 ## Next Sprint
@@ -64,7 +68,7 @@ Documentation           ██████████ 100%
 
 Business Discovery      ██████████ 100%
 
-Solution Architecture   ███░░░░░░░  30%
+Solution Architecture   █████░░░░░  50%
 
 Database Design         ░░░░░░░░░░   0%
 
